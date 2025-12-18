@@ -86,5 +86,29 @@ http://localhost:5173/
 
 ```
 
+### Demo Login Credentials
+# Note: These are dummy/demo credentials stored in localStorage.
+# No real authentication or backend is used.
+
+### Admin
+
+```
+
+Username: admin
+Password: admin@123
+
+```
+
+### User
+
+```
+
+Username: user Mani
+Password: user@321
+
+```
+
+
+
 
 
